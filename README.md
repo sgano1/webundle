@@ -1,4 +1,4 @@
 webundle
 ========
 
-webundle is mainly used to provide a simple and effient way  for web development
+webundle is mainly used to provide a simple and efficient way  for web development
